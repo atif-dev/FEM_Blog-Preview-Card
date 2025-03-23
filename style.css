@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+	background: #F4D04E;
+	min-height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: "Figtree", sans-serif, Arial, Helvetica;
+}
+
+main{
+	background: white;
+	/*width: 23.7rem;*/
+	width: 21rem;
+	border-radius: 1.25em;
+	box-shadow: 8px 8px;
+}
+
+.illustration-img{
+	border-radius: 0.6em;
+	width:100%;
+}
+
+h1{
+	font-size: 0.9rem;
+    background: #F4D04E;
+    padding: .4em 1em;
+    border-radius: 0.25em;
+    display: inline-block;
+    margin-top: 1.5em;
+}
+
+p:nth-of-type(1){
+	font-size: 1.5rem;
+	font-weight: 800;
+	margin: .7em 0em;
+}
+
+p:nth-of-type(1):hover{
+	color: #F4D04E;
+}
+
+main article{
+	width: 88%;
+    margin: 1.2em auto;
+}
+
+.avatar-and-username{
+    display: flex;
+    align-items: center;
+    gap:.6rem;
+    font-weight: 700;
+    margin-top: 1.5em;
+}
+
+.avatar-and-username img{
+	width: 10%;
+}
+
+.published-date{
+	font-weight: 500;
+	margin-top: .3em;
+	font-size: 0.9rem;
+}
+
+.langs-info{
+	color:#6B6B6B;
+}
+
+span{
+	display: block;
+}
+
+.user-name{
+	font-size: 0.9rem;
+}
