@@ -27,8 +27,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshots
 
-![PC View]()
-![Mobile view]()
+![PC View](https://github.com/atif-dev/FEM_Blog-Preview-Card/blob/main/screenshots/Screen(1440%20by%20900).png?raw=true)
+![Mobile view](https://github.com/atif-dev/FEM_Blog-Preview-Card/blob/main/screenshots/iPhone.png?raw=true)
 
 ### Links
 
