@@ -33,12 +33,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Frontend Mentor solution url:
-- Live Site URL:
-- GitHub repo :
+- GitHub repo : https://github.com/atif-dev/FEM_Blog-Preview-Card/
+- Live Site URL: https://atif-dev.github.io/FEM_Blog-Preview-Card/
 
 ## My process
 
-  - Used existing knowledge.
+  - Built with HTML Semantic Elements.
+  - Checked Responsiveness for multiple devices using LT Browser.
   - Explored using google and ChatGPT.
     
 ### Continued development
