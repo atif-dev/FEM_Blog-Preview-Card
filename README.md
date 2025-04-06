@@ -32,7 +32,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Frontend Mentor solution url:
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/responsive-blog-preview-card-WJ6ylU5-CW/
 - GitHub repo : https://github.com/atif-dev/FEM_Blog-Preview-Card/
 - Live Site URL: https://atif-dev.github.io/FEM_Blog-Preview-Card/
 
